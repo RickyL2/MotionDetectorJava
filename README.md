@@ -5,7 +5,9 @@ If you and some others would like to recieve a text message occasionaly when the
 example:
 
 Ricky (626)628-9283 Verizon
+
 Bob (909)324-2343 T-Mobile
+
 Samantha (324)234-2453 AT&T
 
 Having parenthesis in the phone number is not required, as long the digits of the phone number are present, it will work fine.
@@ -15,13 +17,21 @@ List of phone carriers are below, just copy and paste the ones you need to ensur
 List of phone carriers:
 
 AllTel
+
 AT&T
+
 Boost Mobile
+
 Cricket
+
 Sprint
+
 T-Mobile
+
 US Cellular
+
 Verizon
+
 Virgin Mobile
 
 Different settings can be adjusted in the program.
