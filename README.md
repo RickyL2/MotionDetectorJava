@@ -1,6 +1,6 @@
 # MotionDetectorJava
 
-Hello. To use application, just open the securityCam executable jar file.
+Hello. This was a final project for a java class that I took. To use application, just open the securityCam executable jar file.
 If you and some others would like to recieve a text message occasionaly when the program detects movement, simply open the users text document and enter the name, phone number, and cell phone carrier of the user.
 example:
 
